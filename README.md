@@ -1,4 +1,4 @@
-# KonT
+# KonT-KZ
 一个纯单文件 PHP 轻量 Web 仪表盘与文件管理器。零依赖
 <h1 align="center">📁 系统监控与文件管理面板 (开源版)</h1>
 
