@@ -9,7 +9,7 @@
   适合开发环境、服务器运维或快速原型搭建。
 </p>
 
-<p align="center">
+<p align="c enter">
   <img src="https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=flat-square&logo=php" alt="PHP Version">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square" alt="Status">
@@ -17,6 +17,9 @@
 </p>
 
 ---
+
+
+![系统仪表盘](https://i.imgur.com/xxxxx.png)
 
 ## 📖 简介
 
@@ -67,3 +70,9 @@ $root_path = '/var/www/html';   // 请修改为您要管理的目录
 js
 const DEEPSEEK_API_KEY = 'sk=海力士';  // 请替换为您的 DeepSeek API Key
 通过浏览器访问 http://您的域名/kontkz.php 即可使用。
+
+![KonT-Z 系统监控与文件管理器界面](https://kon666.com/github/index.png)
+![KonT-Z 系统监控与文件管理器界面](https://kon666.com/github/no1.png)
+![KonT-Z 系统监控与文件管理器界面](https://kon666.com/github/no2.png)
+
+
