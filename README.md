@@ -1,4 +1,5 @@
 # KonT-Z
+注意！请使用https://konsv.cn/kaiy/kzmb.php访问最新文件！github版本不是最新的！
 
 一个纯单文件 PHP 轻量 Web 仪表盘与文件管理器。零依赖，开箱即用。
 
